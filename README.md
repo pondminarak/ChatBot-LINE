@@ -8,13 +8,15 @@
 >>> pip install requests </br> 
 
 ----------------------------------------------
+
 <h1>Set up LINE Developers</h1> 
 Create access_token and secret </br> 
-link : https://developers.line.biz/en/     
+link : https://developers.line.biz/en/ </br>     
+
 -----------------------------------------------
 <h1>NGROK</h1>
-link : https://ngrok.com/  </br?
-Sign in and Download for .EXE link : https://dashboard.ngrok.com/get-started/setup/windows
+link : https://ngrok.com/  </br>
+Sign in and Download for .EXE link : https://dashboard.ngrok.com/get-started/setup/windows </br>
 --------------------------------------------------
 
 
